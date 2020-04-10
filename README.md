@@ -13,7 +13,7 @@ App has used Pie Charts from https://github.com/PhilJay/MPAndroidChart. Thanks t
 
 **APK**
 
-https://github.com/vimaltiwari2612/Covid19AndroidApp/blob/master/Covid%2019.apk
+[download](https://github.com/vimaltiwari2612/Covid19AndroidApp/blob/master/Covid%2019.apk?raw=true)
 
 
 
@@ -22,9 +22,9 @@ https://github.com/vimaltiwari2612/Covid19AndroidApp/blob/master/Covid%2019.apk
 
 **Screenshots**
 
-![screeenshot](https://github.com/vimaltiwari2612/Covid19AndroidApp/blob/master/Screenshots/1.PNG)
+[screeenshot](https://github.com/vimaltiwari2612/Covid19AndroidApp/blob/master/Screenshots/1.PNG)
 
-![screeenshot](https://github.com/vimaltiwari2612/Covid19AndroidApp/blob/master/Screenshots/2.PNG)
+[screeenshot](https://github.com/vimaltiwari2612/Covid19AndroidApp/blob/master/Screenshots/2.PNG)
 
 
 
