@@ -35,3 +35,6 @@ App has used Pie Charts from https://github.com/PhilJay/MPAndroidChart. Thanks t
 
 Free Covid API Source : https://thevirustracker.com/api
 Thanks to them.
+
+The api sec is free and may stop providing services in future.
+
